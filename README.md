@@ -1,15 +1,7 @@
-This is a big thing
+鄭家和的教學資料庫
 ====
 
-l2k34<BR>
-modified by jaher 20201218 11:00
-       OK.....let's go ...
-       time 0103
-       final
-       1234
-       123456
-       aaaa
----
-
-<BR>
+微電腦應用實習<BR>
+計算機理論<BR>
+小論文<BR>
 
