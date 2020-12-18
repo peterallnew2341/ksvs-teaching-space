@@ -17,7 +17,6 @@ I write it on local MASTER and push it on github origin
        lkdfa
        d aldfka
        hi. ....
-       try again...
 ---
 
 <BR>
