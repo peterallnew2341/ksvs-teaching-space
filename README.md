@@ -7,4 +7,3 @@
 程式設計C#<BR>
 
 markdown -->https://markdown.tw/
-[Daring Fireball]: http://daringfireball.net/
