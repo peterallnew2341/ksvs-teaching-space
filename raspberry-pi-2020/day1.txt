@@ -1,0 +1,15 @@
+20200904:
+1..樹莓派簡介 文字簡介-->https://docs.google.com/a/ksvs.kh.edu.tw/viewer?a=v&pid=sites&srcid=a3N2cy5raC5lZHUudHd8amFoZXJ8Z3g6NWQ1NjAyMDdlNTczZGQ2Yg
+2.介紹微處理機
+        0.(153) 計算機概論 微處理器運作示意 - YouTube
+        1.處理機-->https://zh.wikipedia.org/wiki/%E5%AF%BB%E5%9D%80%E6%A8%A1%E5%BC%8F
+                        CPU 架構說明:https://www.youtube.com/watch?v=D5yrKFnL3ck
+        2.微處理機--->https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8#RISC%E6%8A%80%E6%9C%AF
+        3.指令集的不同: CISC (intel,amd) ,-->https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%9D%82%E6%8C%87%E4%BB%A4%E9%9B%86
+                                RISC  (Arm,powerPC) -->https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%AE%80%E6%8C%87%E4%BB%A4%E9%9B%86
+                                RISC-V指令集 -->  https://technews.tw/2019/06/04/arm-nervous-about-risc-v-what/
+                                 影片 https://www.youtube.com/watch?v=Lqsesl0hSDQ
+        4. AMD CPU製作過程中文  https://www.youtube.com/watch?v=wOuYLq6vfLE
+        5.
+3.  語言 (PYTHON)
+ 4. 控制單元(GPIO)
